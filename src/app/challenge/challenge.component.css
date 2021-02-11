@@ -1,0 +1,35 @@
+div.card-body {
+  height: 500px;
+  width: auto;
+
+}
+
+.space {
+  height: 40%;
+}
+
+.word {
+  width: 200px;
+  height: 100px;
+
+}
+
+.answers {
+  width: 150px;
+  height: 70px;
+}
+
+.start {
+  height: 100px;
+  width: 200px;
+}
+
+.background {
+  height: 450px;
+}
+
+.results {
+  font-style: italic;
+  font-size: 30px;
+  margin: 10px;
+}
